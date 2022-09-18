@@ -1,2 +1,2 @@
-# mative-figures-icons
-mative-figures-icons
+# mative-icons
+mative-icons
