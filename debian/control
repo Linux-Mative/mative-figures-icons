@@ -1,0 +1,14 @@
+Source: mative-icons
+Section: x11
+Priority: optional
+Maintainer: Maksym Titenko <titenko.m@gmail.com>
+Build-Depends: debhelper (>= 10.5.1)
+Standards-Version: 0.1
+Homepage: https://linux-mative.github.io/
+
+Package: mative-icons
+Architecture: all
+Depends: ${misc:Depends}
+Description: Mative Icon Theme
+ A crisp, modern icon theme for Linux Mative.
+
